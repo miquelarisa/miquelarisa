@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! I'm Miquel 👋
 
-<!--
-**miquelarisa/miquelarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
 
-Here are some ideas to get you started:
+**Languages:** Python / R / SQL / C++
+**Storage / Databases / BI:** Apache Spark / Power BI / SQL Server
+**DevOps / Cloud / AI:** Azure Devops / ScikitLearn / Azure
+**Tools / Softwares / ERP: ** Jira / Apache Airflow, Control M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LANGUAGES
+
+**English:** C1: advanced
+**Español:** Native speaker
+**Català:** Native speaker
+
+## CERTIFICATIONS
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="badeb2ec-0172-406c-a5ef-cb57e0c0ca5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
