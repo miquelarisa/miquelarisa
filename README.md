@@ -20,3 +20,7 @@
 <a href="https://www.credly.com/badges/badeb2ec-0172-406c-a5ef-cb57e0c0ca5b/public_url" rel="nofollow">
   <img src="https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" alt="Astronomer Certification for Apache Airflow Fundamentals" height="125" style="max-width: 100%;">
 </a>
+
+**In progress / Next steps**
+
+* Databricks Certified Data Engineer Associate
