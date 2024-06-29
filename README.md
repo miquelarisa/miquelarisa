@@ -2,16 +2,16 @@
 
 ## SKILLS
 
-**Languages:** Python / R / SQL / C++
-**Storage / Databases / BI:** Apache Spark / Power BI / SQL Server
-**DevOps / Cloud / AI:** Azure Devops / ScikitLearn / Azure
-**Tools / Softwares / ERP: ** Jira / Apache Airflow, Control M
+* **Languages:** Python / R / SQL / C++
+* **Storage / Databases / BI:** Apache Spark / Power BI / SQL Server
+* **DevOps / Cloud / AI:** Azure Devops / ScikitLearn / Azure
+* **Tools / Softwares / ERP: ** Jira / Apache Airflow, Control M
 
 ## LANGUAGES
 
-**English:** C1: advanced
-**Español:** Native speaker
-**Català:** Native speaker
+* **English:** C1: advanced
+* **Español:** Native speaker
+* **Català:** Native speaker
 
 ## CERTIFICATIONS
 
