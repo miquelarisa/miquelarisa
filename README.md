@@ -4,7 +4,7 @@
 
 * **Languages:** Python / R / SQL / C++
 * **Storage / Databases / BI:** Apache Spark / Power BI / SQL Server
-* **DevOps / Cloud / AI:** Azure Devops / ScikitLearn / Azure
+* **DevOps / Cloud / AI:** Azure Devops / ScikitLearn / YOLO / Azure
 * **Tools / Softwares / ERP:** Jira / Apache Airflow / Control M
 
 ## LANGUAGES
